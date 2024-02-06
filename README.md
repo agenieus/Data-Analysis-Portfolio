@@ -50,6 +50,6 @@ This is where you put the insight gotten from the analysis
 *italic*
 
 
-|Heading 1 | Heading 2| Heading 3|
-|---------- | ---------| ---------|
+|Heading 1| Heading 2| Heading 3|
+|---------|----------|----------|
 |Data 1| Data 2| Data 3|
